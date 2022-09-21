@@ -1,14 +1,14 @@
-Paris
+# Paris
 
 
-Modern French / Tasting Menus
+**Modern French / Tasting Menus**
 - Septime 
 - Le Chateaubriand
 - Saturne
 - Verjus 
 - Frenchie  
 
-Classic Leaning French Bistros
+**Classic Leaning French Bistros**
 - Bistro Paul Bert
 - Le Cadoret
 - Le Baratin 
@@ -16,7 +16,7 @@ Classic Leaning French Bistros
 - Au Passage
 - La Verre Vole
 
-Modern French Bistros
+**Modern French Bistros**
 - Le Servan
 - Racines 
 - Clamato 
@@ -25,7 +25,7 @@ Modern French Bistros
 - Frenchie Bar et Vins
 - Le Dauphin
 
-Of Interest / Other Cuisines 
+**Of Interest / Other Cuisines**
 - C.A.M
 - Le Rigmarole
 - Dilia
@@ -37,21 +37,21 @@ Of Interest / Other Cuisines
 - Le Grand Bol
 - Lao Siam
 
-Drinking Wine
+**Drinking Wine**
 - Septime Le Cave
 - Yard
 - La Cave Du Paul Bert
 - Aux Deux Amis
 - La Buvette
 
-Drinking Cocktails:
+**Drinking Cocktails:**
 - Litte Red Door
 - Mary Celeste
 
-Bread / Breakfast:
+**Bread / Breakfast:**
 - 10 Belles Bread
 
-Coffee/Breakfast/Bread:
+**Coffee/Breakfast/Bread:**
 - 10 Belles Bread
 - Telescope 
 - Fragments 
