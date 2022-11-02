@@ -32,3 +32,7 @@ Manten Sushi - *Affordable Omakase*
 
 [L’effervescence](https://www.leffervescence.jp)
 
+# Kyoto
+
+[Monk](https://restaurant-monk.com/) - *Pizza*
+
