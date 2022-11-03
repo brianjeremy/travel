@@ -36,3 +36,4 @@ Manten Sushi - *Affordable Omakase*
 
 [Monk](https://restaurant-monk.com/) - *Pizza*
 
+[Kichisen](https://www.kichisen-kyoto.com/en/) - 3 Michelin star Kaiseki
