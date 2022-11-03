@@ -34,6 +34,8 @@ Manten Sushi - *Affordable Omakase*
 
 # Kyoto
 
+[Beer Komachi](https://beerkomachi.com/) - *Craft beer and small bites*
+
 [Monk](https://restaurant-monk.com/) - *Pizza*
 
 [Kichisen](https://www.kichisen-kyoto.com/en/) - 3 Michelin star Kaiseki
